@@ -1,5 +1,5 @@
 class Endpoint {
-  static const String baseUrlApi = "http://192.168.1.6:8000/api/users/";
+  static const String baseUrlApi = "http://192.168.88.190:8000/api/users/";
 
    static const String profil = "${baseUrlApi}profil";
   static const String updateProfile = "${baseUrlApi}update";
